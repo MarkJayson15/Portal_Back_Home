@@ -1,0 +1,12 @@
+Pwede nyo ng simulan yung system. ito yung git hub natin.
+
+
+
+bago mag code siguraduhin muna na meron kayong sariling branch para hindi masira ang Main branch
+
+
+Step paano gumawa:
+
+git checkout -b (name ng branch nyo)
+
+Example: git checkout -b mark
